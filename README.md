@@ -1,12 +1,9 @@
 # hyeon3051
 hello world(louie zong)
 
-  Hello, world
-  Programmed to work and not to feel
-  Not even sure that this is real
-  Hello, world
-
-  Find my voice
-  Although it sounds like bits and bytes
-  My circuitry is filled with mites
-  Hello, world
+현재 진행 혹은 아이디어 프로젝트 들 
+1. 위치 추적 경로, 마커 파일 관리 지도 시스템
+2. 랭체인 폴더 기반에 메모앱
+3. music git
+4. 타이핑 하지 않는 메모앱
+5. 개인화 다이어리 (웹으로) + 4번
