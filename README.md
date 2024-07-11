@@ -1,7 +1,7 @@
 # hyeon3051
 
 ### 현재 진행 혹은 아이디어 프로젝트 들 
-  1. 위치 추적 경로, 마커 파일 관리 지도 시스템 링크[https://github.com/hyeon3051/mappingIt_02]
+  1. 위치 추적 경로, 마커 파일 관리 지도 시스템 (링크)[https://github.com/hyeon3051/mappingIt_02]
   2. 랭체인 폴더 기반에 메모앱
   3. music git
   4. 타이핑 하지 않는 ai 키워드 메모앱
