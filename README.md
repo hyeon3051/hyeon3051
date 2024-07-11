@@ -11,9 +11,9 @@
   8. 1번에 증강현실 기능 추가
   9. 가까운 지리 기반의 sns 
 ### 현재 해야 되는 것들
-  1. 자료구조 알고리즘 공부
-  2. 클론 코딩 따라하기
-  3. 게임 개발 찍먹
+  1. 자료구조 알고리즘 공부 [링크](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005568012)
+  2. 클론 코딩 따라하기 [링크](https://www.youtube.com/@codewithantonio/playlists)
+  3. 게임 개발 찍먹 [링크](https://www.udemy.com/course/retr0-unity/)
   4. 우분콘 참가
 ### 하고 싶은 것 
   1. 작곡, 글쓰기
