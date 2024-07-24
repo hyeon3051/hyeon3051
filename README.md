@@ -1,4 +1,27 @@
 # hyeon3051
+<div align="left">
+  <h2>hyeon3051</h2>
+  <br>
+  <div>
+
+  </div>
+  
+<br>  
+</div>
+
+## Tech Stack
+
+### 🌟 Language
+
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white"/> <br>
+
+### 🌟 FE
+
+<img src="https://img.shields.io/badge/-React-%2361DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/-Styled-%23DB7093?logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/-Redux-%233578e5?logo=RECOIL&logoColor=white"/>
+
+### 🌟 Tools & Platform
+
+<img src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
 
 ### 현재 진행 혹은 아이디어 프로젝트 들 
   1. 위치 추적 경로, 마커 파일 관리 지도 시스템 [링크](https://github.com/hyeon3051/mappingIt_01)
