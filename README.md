@@ -1,10 +1,6 @@
-# hyeon3051
 <div align="left">
   <h2>hyeon3051</h2>
   <br>
-  <div>
-
-  </div>
   
 <br>  
 </div>
