@@ -5,19 +5,16 @@
 ## Tech Stack
 
 ### 🌟 Language
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=TypeScript&logoColor=white"/> <br>
-
-### 🌟 FE
-
+### FE
 <img src="https://img.shields.io/badge/-React-%2361DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/-Styled-%23DB7093?logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/-Redux-%233578e5?logo=RECOIL&logoColor=white"/>
 
 ### BE
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 
-### 🌟 Tools & Platform
-
-<img src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
+### Tools & Platform
+<img src="https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
 
 ### 현재 진행 혹은 아이디어 프로젝트 들 
   1. 위치 추적 경로, 마커 파일 관리 지도 시스템 [링크](https://github.com/hyeon3051/mappingIt_01)
