@@ -1,8 +1,5 @@
 <div align="left">
   <h2>hyeon3051</h2>
-  <br>
-  
-<br>  
 </div>
 
 ## Tech Stack
