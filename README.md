@@ -12,6 +12,9 @@
 
 <img src="https://img.shields.io/badge/-React-%2361DAFB?logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/-Styled-%23DB7093?logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/-Redux-%233578e5?logo=RECOIL&logoColor=white"/>
 
+### BE
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"/>
+
 ### 🌟 Tools & Platform
 
 <img src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
