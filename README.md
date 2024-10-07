@@ -18,7 +18,7 @@
 
 ### 현재 진행 혹은 아이디어 프로젝트 들 
   1. 위치 추적 경로, 마커 파일 관리 지도 시스템 [링크](https://github.com/hyeon3051/mappingIt_01) 2024.07 ~ 진행중 2024.09 
-  2. 랭체인 폴더 기반에 메모앱 (python, pytorch, tensorflow, django) 2024.09 ~
+  2. 랭체인 폴더 기반에 메모앱 (python, pytorch, tensorflow, django) 예정
   3. music git (git, daw)
   4. 타이핑 하지 않는 ai 키워드 메모앱( react-native, gemini, msa, R)
   5. 개인화 다이어리 (웹으로) + 4번 => 캘린더, 일기, 해야되는 일, 메모, 독후감 등 한 번에 정리 커스텀 화 기능 추가하여서 더 ( next.js, react, tamagui)
