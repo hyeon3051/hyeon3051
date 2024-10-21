@@ -1,6 +1,8 @@
 <div align="left">
   <h2>hyeon3051</h2>
 </div>
+ 
+velog [블로그](https://velog.io/@hanson/posts)
 
 ## Tech Stack
 
@@ -17,16 +19,17 @@
 <img src="https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/framer-0055FF?logo=framer&logoColor=white"/>  <img src="https://img.shields.io/badge/xcode-147efb?logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/cocoapods-ee3322?logo=cocoapods&logoColor=white"/>   <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=white"/>
 
 ### 현재 진행 혹은 아이디어 프로젝트 들 
-  1. 위치 추적 경로, 마커 파일 관리 지도 시스템 [링크](https://github.com/hyeon3051/mappingIt_01) 2024.07 ~ 진행중 2024.09 
-  2. 랭체인 폴더 기반에 메모앱 (python, pytorch, tensorflow, django) 예정
-  3. music git (git, daw)
-  4. 타이핑 하지 않는 ai 키워드 메모앱( react-native, gemini, msa, R)
-  5. 개인화 다이어리 (웹으로) + 4번 => 캘린더, 일기, 해야되는 일, 메모, 독후감 등 한 번에 정리 커스텀 화 기능 추가하여서 더 ( next.js, react, tamagui)
-  6. 배경화면 위젯과 기존 프로그램 읽기 전용으로 오버레이 하는 법 볼륨, 터미널, 각종 세팅으로 배경화면을 구성하여 file readStream으로만 읽어 성능 개선 (electron.js)
-  7. 명함에 auth와 6-digit을 넣고 빌리고 갚고를 블록체인으로 구성 더하여 공유가 가능하게 하여 기존 프로필에서 명함으로 교체하기 => (rust, msa, python, c#, swift, kotlin)
-  8. 1번에 증강현실 기능 추가( three.js, mapbox)
-  9. 가까운 지리 기반의 sns(gps, mapbox, three.js, phaser.js, howling.js)
-  10. 사용자의 기기 장비가 통신 기기가 되는 프로토콜 개발 3.0 (mqtt, distribute system, msa, graph network(다익스트라), dna 블록체인 결합)
+  1. 위치 추적 경로, 마커 파일 관리 지도 시스템 [링크](https://github.com/hyeon3051/mappingIt_01) 2024.07 ~ 진행중 2024.09
+      디자인 파일 [링크](https://www.figma.com/design/v0CyhmnSeBDQBgttyMnh4K/mappingIt-design-template?node-id=0-1&node-type=canvas&t=FXE1O49Cvm7mBnB1-0)
+  3. 랭체인 폴더 기반에 메모앱 (python, pytorch, tensorflow, django) 예정
+  4. music git (git, daw)
+  5. 타이핑 하지 않는 ai 키워드 메모앱( react-native, gemini, msa, R)
+  6. 개인화 다이어리 (웹으로) + 4번 => 캘린더, 일기, 해야되는 일, 메모, 독후감 등 한 번에 정리 커스텀 화 기능 추가하여서 더 ( next.js, react, tamagui)
+  7. 배경화면 위젯과 기존 프로그램 읽기 전용으로 오버레이 하는 법 볼륨, 터미널, 각종 세팅으로 배경화면을 구성하여 file readStream으로만 읽어 성능 개선 (electron.js)
+  8. 명함에 auth와 6-digit을 넣고 빌리고 갚고를 블록체인으로 구성 더하여 공유가 가능하게 하여 기존 프로필에서 명함으로 교체하기 => (rust, msa, python, c#, swift, kotlin)
+  9. 1번에 증강현실 기능 추가( three.js, mapbox)
+  10. 가까운 지리 기반의 sns(gps, mapbox, three.js, phaser.js, howling.js)
+  11. 사용자의 기기 장비가 통신 기기가 되는 프로토콜 개발 3.0 (mqtt, distribute system, msa, graph network(다익스트라), dna 블록체인 결합)
 ### 현재 해야 되는 것들
   1. 자료구조 알고리즘 공부 [링크](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005568012)
   2. 클론 코딩 따라하기 [링크](https://www.youtube.com/@codewithantonio/playlists)
