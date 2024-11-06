@@ -30,6 +30,7 @@ velog [블로그](https://velog.io/@hanson/posts)
   9. 1번에 증강현실 기능 추가( three.js, mapbox)
   10. 가까운 지리 기반의 sns(gps, mapbox, three.js, phaser.js, howling.js)
   11. 사용자의 기기 장비가 통신 기기가 되는 프로토콜 개발 3.0 (mqtt, distribute system, msa, graph network(다익스트라), dna 블록체인 결합)
+  12. 스트리밍 서비스 스트리머의 서버에서 수/송신 할 수 있도록 하는 것 (수수료 정책 때문에 차라리 클라우드 서비스를 쓰거나 하는 걸로 해서 서버에 사용량 혹은 구축비용만 들고 광고나 후원 같은 돈이 수수료 없이 들어가게 하는 거)
 ### 현재 해야 되는 것들
   1. 자료구조 알고리즘 공부 [링크](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005568012)
   2. 클론 코딩 따라하기 [링크](https://www.youtube.com/@codewithantonio/playlists)
