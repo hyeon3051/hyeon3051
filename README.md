@@ -21,7 +21,7 @@ velog [블로그](https://velog.io/@hanson/posts)
 ### 현재 진행 혹은 아이디어 프로젝트 들 
   1. 위치 추적 경로, 마커 파일 관리 지도 시스템 [링크](https://github.com/hyeon3051/mappingIt_01) 2024.07 ~ 진행중 2024.09
       디자인 파일 [링크](https://www.figma.com/design/v0CyhmnSeBDQBgttyMnh4K/mappingIt-design-template?node-id=0-1&node-type=canvas&t=FXE1O49Cvm7mBnB1-0)
-  3. 랭체인 폴더 기반에 메모앱 (python, pytorch, tensorflow, django) 예정
+  3. 메모에 아이콘을 입히고 양에 따라 아이콘 크기를 늘리며 수납함에 넣는 것 처럼 메모를 관리하는 어플리케이션 + 랭체인(자동 추천 시스템) 도입
   4. music git (git, daw)
   5. 타이핑 하지 않는 ai 키워드 메모앱( react-native, gemini, msa, R)
   6. 개인화 다이어리 (웹으로) + 4번 => 캘린더, 일기, 해야되는 일, 메모, 독후감 등 한 번에 정리 커스텀 화 기능 추가하여서 더 ( next.js, react, tamagui)
